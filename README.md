@@ -2,7 +2,7 @@
 
 Ejercicio técnico. Se utilizó la versión 8 de Java y SpringBoot para ejecutar el proyecto. Solo es necesario descargar el proyecto, ejecutarlo y respetar el formato del input.
 
-####Parámetros esperados en la función contarFrutas:
+######Parámetros esperados en la función contarFrutas:
 
 - **s**: entero, posición de inicio de la casa de José.
 - **t**: entero, posición de fin de la casa de José.
@@ -12,7 +12,7 @@ Ejercicio técnico. Se utilizó la versión 8 de Java y SpringBoot para ejecutar
 - **naranjas**: arreglo de enteros, las distancias a las que cayó cada naranjas desde el árbol.
 
 
-####Formato del input esperado:
+######Formato del input esperado:
 
 - La primera línea contiene dos enteros, separados por espacio, que denotan los valores **s** y **t**.
 - La segunda línea contiene dos enteros, separados por espacio, que denotan los valores **a** y **b**.
@@ -20,7 +20,7 @@ Ejercicio técnico. Se utilizó la versión 8 de Java y SpringBoot para ejecutar
 - La cuarta línea contiene **m**, separados por espacio, que denotan las distancia a la que cayó cada manzana, respectivamente.
 - La quinta línea contiene **n**, separados por espacio, que denotan las distancia a la que cayó cada naranja, respectivamente..
 
-####Formato del output:
+######Formato del output:
 
 Imprime dos enteros, uno en cada línea:
 
